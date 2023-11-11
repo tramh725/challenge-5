@@ -7,5 +7,3 @@ In this challenge, I used the lessons in week 5 to complete this assignment. I l
 [2] “Pandas.Dataframe.Aggregate#.” Pandas.DataFrame.Aggregate - Pandas 2.1.2 Documentation, pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html.
 
 [3] “Boxplots¶.” Boxplots - Matplotlib 3.1.2 Documentation, matplotlib.org/3.1.1/gallery/statistics/boxplot_demo.html#sphx-glr-gallery-statistics-boxplot-demo-py.
-
-“Pandas.Dataframe.Aggregate#.” Pandas.DataFrame.Aggregate - Pandas 2.1.2 Documentation, pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html. Accessed 10 Nov. 2023. 
